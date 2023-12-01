@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not this file
+!.gitignore
+
+# And not the docker-compose.yml file
+!docker-compose.yml
